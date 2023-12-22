@@ -1,0 +1,7 @@
+# ninja log v5
+72	9067	7249645943333155	CMakeFiles/ProjekatVozilo.dir/Vozilo.cpp.obj	ade14b670f572e63
+24	9312	7249645944951656	CMakeFiles/ProjekatVozilo.dir/Automobil.cpp.obj	f2f16b6041e68aa
+2	13849	7249645962341250	CMakeFiles/ProjekatVozilo.dir/main.cpp.obj	9b8cbb888ac03257
+9096	15612	7249646008458949	CMakeFiles/ProjekatVozilo.dir/Motor.cpp.obj	68ef58b7230868d3
+9314	16638	7249646018789834	CMakeFiles/ProjekatVozilo.dir/Kontejner.cpp.obj	53db4666996161cd
+16640	20276	7249646055198483	ProjekatVozilo.exe	922b78dd2a913bf2
